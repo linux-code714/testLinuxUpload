@@ -4,3 +4,6 @@
 
 /.vs/c_study/v16
 /c/.vs/c/v16
+/.vs
+/c/Debug/c.tlog
+/c/Debug

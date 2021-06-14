@@ -2,5 +2,5 @@
 
 struct stu
 {
-	char id[10];
+	char *id;
 };
